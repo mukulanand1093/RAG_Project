@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+requests
+faiss-cpu
+numpy
+torch
+transformers
+pdfplumber
+python-docx
